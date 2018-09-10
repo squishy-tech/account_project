@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "533887629692",
+    "firebase_url": "https://france-7d911.firebaseio.com",
+    "project_id": "france-7d911",
+    "storage_bucket": "france-7d911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533887629692:android:a00aa7984cb2558d",
+        "android_client_info": {
+          "package_name": "lebleu.france.comp30022.lebleu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533887629692-illteqrffecfalgsdng97c22ike67u0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYGKFQcGTLyqmJNoNGNXfr-W9LcPrjzwY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
